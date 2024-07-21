@@ -3,9 +3,9 @@ Module_18_Challenge
 
 __Purpose__: In this Challenge we display knowledge of neural network models in a real world example of a studen loan recommendation system.
 
-  &nbsp; &nbsp; __Step 1__: Preparing the data for use on a neural network model
-  &nbsp; &nbsp; __Step 2__: Compile and Evaluate a Model Using a Neural Network 
-  &nbsp; &nbsp;__Step 3__: Predict loan repayment success by using your neural network model
+  &nbsp; &nbsp; __Step 1__: Preparing the data for use on a neural network model  
+  &nbsp; &nbsp; __Step 2__: Compile and Evaluate a Model Using a Neural Network    
+  &nbsp; &nbsp;__Step 3__: Predict loan repayment success by using your neural network model  
   &nbsp; &nbsp;__Step 4__: Discuss creating a recommendation system for student loans
 
 __Intalls__: A number of installations are needed (and provided) to run the code necessary to complete this project  
